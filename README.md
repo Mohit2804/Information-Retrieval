@@ -1,4 +1,4 @@
-# Information-Retrieval
+# Search Engine - Information Retrieval (IR)
 # Title
 ML- Search Engine (Information Retrieval)
 
